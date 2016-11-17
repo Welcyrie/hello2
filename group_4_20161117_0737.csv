@@ -1,0 +1,6 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Comment,Task,Task Status
+3152547,Way to Order,way to order,,,,epic,,,"Nov 16, 2016",,,,All the ordering story,https://www.pivotaltracker.com/epic/show/3152547,,,,
+3152535,Way to order,manage customer details,,,,epic,,,"Nov 16, 2016",,,,All the ordering storys,https://www.pivotaltracker.com/epic/show/3152535,,,,
+3136287,Manage Customer Details,students,,,,epic,,,"Nov 9, 2016",,,,Need Menu,https://www.pivotaltracker.com/epic/show/3136287,,,,
+134057303,Add student record to the database,students,1,"Nov 7, 2016","Nov 13, 2016",feature,3,accepted,"Nov 9, 2016","Nov 9, 2016",,Wong Jun Xiang,Any taruc student can be added to database......................................................,https://www.pivotaltracker.com/story/show/134057303,Wong Jun Xiang,,Create UI with one label and one button,not completed
+134057395,Bugs,"",1,"Nov 7, 2016","Nov 13, 2016",bug,,accepted,"Nov 9, 2016","Nov 9, 2016",,Wong Jun Xiang,,https://www.pivotaltracker.com/story/show/134057395,Wong Jun Xiang,"Still got Bugs (Wong Jun Xiang - Nov 9, 2016)"
